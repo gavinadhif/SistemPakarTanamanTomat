@@ -1,16 +1,17 @@
-"""
-WSGI config for config project.
-
-It exposes the WSGI callable as a module-level variable named ``application``.
-
-For more information on this file, see
-https://docs.djangoproject.com/en/6.1/howto/deployment/wsgi/
-"""
 
 import os
+import sys
+from pathlib import Path
+
+# Menentukan folder utama proyek Django
+PROJECT_DIR = Path(__file__).resolve().parent.parent
+
+# Menambahkan folder sistem_pakar ke Python Path
+sys.path.insert(0, str(PROJECT_DIR))
+
+# Mengatur konfigurasi Django
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "config.settings")
 
 from django.core.wsgi import get_wsgi_application
-
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'config.settings')
 
 application = get_wsgi_application()
