@@ -1,0 +1,121 @@
+Disease,Kode_Gejala,Gejala,Sumber
+Early Blight,G001,"Pada bagian pangkal tanaman yang terserang, muncul bercak cokelat berbentuk hampir bulat pada daun dan batang",Data.csv: symptoms
+Early Blight,G002,"Seiring bercak meluas, muncul lingkaran (halo) kuning di sekeliling bercak",Data.csv: symptoms
+Early Blight,G003,Daun bagian bawah rontok seluruhnya dan bahkan dapat menyebabkan kematian tanaman yang terinfeksi.,Data.csv: symptoms
+Early Blight,G004,Warna bercak biasanya cokelat hingga hitam. Bercak tampak cekung dan memiliki cincin konsentris yang jelas.,Data.csv: symptoms
+Early Blight,G005,"Batang dan buah juga dapat terinfeksi, ditandai bercak gelap yang cekung.",Data.csv: symptoms
+Early Blight,G006,"Muncul beberapa (umumnya 5 hingga 10) bercak cokelat berbentuk bulat pada selembar daun, lalu bercak-bercak tersebut menyatu dan dapat mematikan seluruh daun.",Data.csv: symptoms
+Early Blight,G007,"Bercak bulat berwarna cokelat tua hingga hitam dengan cincin konsentris gelap. Seiring perkembangan infeksi, bercak dapat menyatu sehingga daun yang terserang menguning dan rontok.",Data.csv: symptoms
+Late Blight,G008,Tanda awal hawar daun (late blight) adalah bercak atau bercak penyakit berwarna cokelat pada batang tanaman.,Data.csv: symptoms
+Late Blight,G009,Bercak meluas dengan cepat dan menghasilkan pertumbuhan jamur putih pada kondisi lembap,Data.csv: symptoms
+Late Blight,G010,Busuk lunak menyebabkan batang cepat rebah dan berubah menjadi cokelat tua.,Data.csv: symptoms
+Late Blight,G011,Spora putih dapat terlihat terbentuk pada tepi permukaan yang rusak di bagian bawah helai daun.,Data.csv: symptoms
+Late Blight,G012,"Daun memiliki lesi berbentuk tidak beraturan dan tampak basah (water-soaked), sering kali dengan halo atau cincin yang lebih terang di sekelilingnya; lesi ini biasanya ditemukan pada daun muda yang lebih lunak di bagian atas tajuk tanaman.",Data.csv: symptoms
+Late Blight,G013,"Bercak terlihat pada kedua sisi daun. Seiring perkembangan penyakit, lesi membesar sehingga daun mencokelat, mengerut, dan mati.",Data.csv: symptoms
+Late Blight,G014,Lesi hitam berair (water-soaked) pada daun dan batang,Data.csv: symptoms
+Late Blight,G015,Lesi meluas dengan cepat dan seluruh daun menjadi nekrotik (mati jaringan).,Data.csv: symptoms
+Late Blight,G016,Sporulasi putih (sporangia dan sporangiofor) pada daun.,Data.csv: symptoms
+Leaf Miner,G017,Larva memakan jaringan dalam daun dengan membuat terowongan atau alur dangkal yang tampak sebagai bercak berubah warna atau cokelat pada permukaan daun,Data.csv: symptoms
+Leaf Miner,G018,Daun menggulung akibat aktivitas larva penggorok daun pada permukaan bawah atau atas daun,Data.csv: symptoms
+Leaf Miner,G019,"Daun yang terserang dapat tampak pucat atau kuning, dan pada kasus berat dapat berubah cokelat serta layu",Data.csv: symptoms
+Leaf Miner,G020,Daun tanaman yang terserang menjadi cacat bentuk atau keriput,Data.csv: symptoms
+Leaf Miner,G021,"Serangan berat penggorok daun dapat menyebabkan pertumbuhan tanaman terhambat (kerdil), sehingga hasil panen menurun dan kualitas produk buruk",Data.csv: symptoms
+Leaf Miner,G022,Menyebabkan pengeringan dan gugurnya daun yang terserang sebelum waktunya,Data.csv: symptoms
+Leaf Miner,G023,"Aktivitas makan larva dapat melemahkan tanaman sehingga lebih rentan terhadap hama dan penyakit lain, seperti kanker sitrus, akibat adanya sumber infeksi sekunder.",Data.csv: symptoms
+Leaf Miner,G024,"Larva merusak bunga, daun, batang, tunas apikal, dan buah muda.",Data.csv: symptoms
+Leaf Miner,G025,Serangan berat membuat tanaman tampak seperti terbakar.,Data.csv: symptoms
+Leaf Miner,G026,Korokan daun tampak sebagai bercak tidak beraturan yang berisi kotoran larva (frass).,Data.csv: symptoms
+Leaf Miner,G027,Daun dapat menjadi terkerangka (hanya tersisa tulang daun) pada serangan berat.,Data.csv: symptoms
+Leaf Miner,G028,"Muncul lubang, kotoran larva (frass), dan jaring halus pada batang dan buah",Data.csv: symptoms
+Leaf Miner,G029,Larva memiliki pita gelap yang jelas di belakang kepalanya.,Data.csv: symptoms
+Leaf Miner,G030,Daun mengering dan berguguran,Data.csv: symptoms
+Leaf Miner,G031,Korokan daun: terowongan berkelok-kelok (seperti ular) pada daun akibat aktivitas makan larva.,Data.csv: symptoms
+Leaf Miner,G032,Tusukan: lalat betina dewasa menusuk daun dengan ovipositor untuk makan dan meletakkan telur.,Data.csv: symptoms
+Leaf Miner,G033,"Kerusakan daun: fotosintesis berkurang, tanaman layu, dan daun gugur sebelum waktunya.",Data.csv: symptoms
+Leaf Miner,G034,"Preferensi inang: sangat banyak menyerang tanaman labu-labuan (mentimun, labu air/botol, labu kuning), kacang-kacangan (kacang hijau, kacang polong), dan tanaman Solanaceae (tomat, terung).",Data.csv: symptoms
+Leaf Mold,G035,Daun yang paling tua terinfeksi lebih dahulu.,Data.csv: symptoms
+Leaf Mold,G036,"Bercak hijau kekuningan pucat, biasanya berukuran kurang dari 1/4 inci (sekitar 6 mm), tanpa batas yang jelas, terbentuk pada permukaan atas daun.",Data.csv: symptoms
+Leaf Mold,G037,"Jamur beludru berwarna hijau zaitun hingga cokelat terbentuk pada permukaan bawah daun, tepat di bawah bercak daun.",Data.csv: symptoms
+Leaf Mold,G038,Bercak daun saling menyatu dan berubah cokelat. Daun layu dan mati tetapi sering kali tetap menempel pada tanaman.,Data.csv: symptoms
+Leaf Mold,G039,Bunga yang terinfeksi menghitam dan rontok.,Data.csv: symptoms
+Leaf Mold,G040,"Infeksi pada buah dimulai sebagai area hitam yang halus dan tidak beraturan pada ujung tangkai buah. Seiring perkembangan penyakit, area yang terinfeksi menjadi cekung, kering, dan seperti kulit.",Data.csv: symptoms
+Leaf Mold,G041,Gejala dimulai sebagai bercak hijau pucat hingga kekuningan pada permukaan atas daun yang kemudian berubah menjadi kuning terang,Data.csv: symptoms
+Leaf Mold,G042,"Daun yang terinfeksi menggulung, layu, dan sering gugur dari tanaman",Data.csv: symptoms
+Mosaic Virus,G043,Infeksi awal dapat membuat tanaman tampak kuning dan secara umum kerdil.,Data.csv: symptoms
+Mosaic Virus,G044,Daun belang-belang (mottling) hijau tua dan hijau muda.,Data.csv: symptoms
+Mosaic Virus,G045,"Daun dapat menjadi terpuntir, cacat bentuk, atau mengecil.",Data.csv: symptoms
+Mosaic Virus,G046,"Pada suhu hangat, beberapa kultivar dapat menunjukkan tanda jaringan daun yang mati.",Data.csv: symptoms
+Mosaic Virus,G047,Kemungkinan buah matang tidak merata.,Data.csv: symptoms
+Mosaic Virus,G048,Total hasil panen dan ukuran rata-rata buah menurun.,Data.csv: symptoms
+Mosaic Virus,G049,Buah dengan bercak tidak beraturan berwarna tidak normal yang dapat menonjol atau cekung.,Data.csv: symptoms
+Mosaic Virus,G050,Buah dapat menunjukkan pencokelatan tepat di bawah kulit (brownwall).,Data.csv: symptoms
+Mosaic Virus,G051,"Garis/goresan/bercak berwarna kuning, putih, atau hijau pada daun",Data.csv: symptoms
+Mosaic Virus,G052,"Daun keriput, menggulung, atau kecil",Data.csv: symptoms
+Mosaic Virus,G053,Menguningnya tulang daun secara nyata (hanya pada tulang daun),Data.csv: symptoms
+Mosaic Virus,G054,Pertumbuhan kerdil dan hasil panen menurun,Data.csv: symptoms
+Mosaic Virus,G055,Buah yang terinfeksi tampak belang-belang dan muncul area menonjol seperti kutil,Data.csv: symptoms
+Mosaic Virus,G056,lepuh hijau tua,Data.csv: symptoms
+Mosaic Virus,G057,batang yang mengering dengan cepat,Data.csv: symptoms
+Septoria,G058,"Bercak kecil berwarna abu-abu, bulat, dan tampak basah dengan tepi cokelat tua muncul pada sisi bawah daun yang lebih tua.",Data.csv: symptoms
+Septoria,G059,"Bercak yang terinfeksi membesar, menyatu, dan titik-titik hitam muncul di bagian tengahnya.",Data.csv: symptoms
+Septoria,G060,"Daun yang terinfeksi parah akan menguning ringan, layu, dan rontok, sementara kerontokan daun menyebabkan buah terbakar matahari (sun scald).",Data.csv: symptoms
+Septoria,G061,Muncul pertama kali pada daun bagian bawah setelah buah pertama terbentuk.,Data.csv: symptoms
+Septoria,G062,"Bercak berbentuk bulat, berdiameter 1/16 hingga 1/4 inci (sekitar 1,5–6 mm).",Data.csv: symptoms
+Septoria,G063,Tepi cokelat tua,Data.csv: symptoms
+Septoria,G064,Bagian tengah berwarna cokelat muda hingga abu-abu,Data.csv: symptoms
+Septoria,G065,Badan buah jamur berukuran kecil dan berwarna hitam di bagian tengah (piknidia),Data.csv: symptoms
+Septoria,G066,Banyak bercak pada satu daun merupakan hal yang umum.,Data.csv: symptoms
+Septoria,G067,Penyakit berkembang ke atas dari daun tua ke daun muda.,Data.csv: symptoms
+Septoria,G068,"Daun berubah kuning, kemudian cokelat, dan layu.",Data.csv: symptoms
+Septoria,G069,Infeksi pada buah jarang terjadi.,Data.csv: symptoms
+Spider Mites,G070,"Daun menguning, sering dikira kekurangan unsur hara atau penyakit.",Data.csv: symptoms
+Spider Mites,G071,Jaring halus pada sisi bawah daun.,Data.csv: symptoms
+Spider Mites,G072,Bercak gelap pada kedua sisi daun (akibat kerusakan karena isapan tungau).,Data.csv: symptoms
+Spider Mites,G073,Bintik-bintik (stippling; bintik kecil kuning/putih) diikuti pencokelatan dan kematian daun.,Data.csv: symptoms
+Spider Mites,G074,Pertumbuhan kerdil dan akhirnya tanaman rubuh pada serangan berat.,Data.csv: symptoms
+Spider Mites,G075,"Pada kasus berat, disarankan untuk mencabut tanaman.",Data.csv: symptoms
+Spider Mites,G076,Bintik kecil putih kekuningan pada permukaan atas dan bawah daun.,Data.csv: symptoms
+Spider Mites,G077,Daun tampak keperakan akibat serangan yang berat.,Data.csv: symptoms
+Spider Mites,G078,Jaring halus pada daun (terutama pada serangan berat).,Data.csv: symptoms
+Spider Mites,G079,Daun dapat mengering dan mati pada kasus berat.,Data.csv: symptoms
+Spider Mites,G080,Buah retak juga dapat terjadi akibat kerusakan oleh tungau.,Data.csv: symptoms
+Spider Mites,G081,"Tungau berukuran sangat kecil (0,6 mm), tidak bersayap, dan perlu kaca pembesar (lup) untuk dapat dilihat.",Data.csv: symptoms
+Target Spot,G082,bercak kecil sebesar ujung jarum yang tampak basah (water-soaked) pada permukaan atas daun,Data.csv: symptoms
+Target Spot,G083,Berkembang menjadi lesi nekrotik kecil dengan bagian tengah cokelat muda dan tepi gelap.,Data.csv: symptoms
+Target Spot,G084,"Lesi membesar, membentuk bercak bulat dengan bagian tengah abu-abu hingga cokelat pucat dan cincin konsentris gelap (tampak seperti papan sasaran).",Data.csv: symptoms
+Target Spot,G085,Halo kuning dapat terbentuk di sekeliling lesi.,Data.csv: symptoms
+Target Spot,G086,"Infeksi berat menyebabkan hawar daun dan kerontokan daun sebelum waktunya (""melting-out"" atau daun luruh pada tajuk bagian dalam).",Data.csv: symptoms
+Target Spot,G087,Lesi hawar dengan lingkaran konsentris (tampak seperti papan sasaran),Data.csv: symptoms
+Target Spot,G088,Halo kuning di sekeliling lesi,Data.csv: symptoms
+Target Spot,G089,Kerontokan anak daun yang parah (daun gugur),Data.csv: symptoms
+Target Spot,G090,Bercak nekrotik pada daun dan batang,Data.csv: symptoms
+Target Spot,G091,Perkembangan penyakit sangat cepat hingga tanaman rubuh dalam 2–3 hari setelah gejala muncul (dalam uji patogenisitas),Data.csv: symptoms
+Target Spot,G092,Lesi nekrotik dengan bagian tengah cokelat muda.,Data.csv: symptoms
+Target Spot,G093,Lesi menyatu sehingga membentuk area hawar yang luas.,Data.csv: symptoms
+Target Spot,G094,Kerontokan daun yang parah (hingga 75% dilaporkan dalam uji coba).,Data.csv: symptoms
+Target Spot,G095,Muncul bercak bulat dengan cincin konsentris (tampak seperti papan sasaran).,Data.csv: symptoms
+Target Spot,G096,Lesi jamur berwarna hitam dan seperti beludru terbentuk di bagian tengah.,Data.csv: symptoms
+Target Spot,G097,Bercak menjadi lebih besar dan berlekuk (cekung kecil) seiring buah matang.,Data.csv: symptoms
+Target Spot,G098,Muncul pada semua bagian tanaman tomat yang berada di atas tanah.,Data.csv: symptoms
+Target Spot,G099,"Dimulai sebagai bercak kecil berair (water-soaked) pada daun yang lebih tua, kemudian membentuk lesi bercincin dengan halo kuning.",Data.csv: symptoms
+Target Spot,G100,Lesi muncul pada batang dan tangkai daun sebagai bercak cokelat yang tipis.,Data.csv: symptoms
+Target Spot,G101,Pada buah muda: lesi kecil dan kering.,Data.csv: symptoms
+Target Spot,G102,Pada buah matang: lesi bulat besar dengan bagian tengah cokelat yang retak.,Data.csv: symptoms
+Target Spot,G103,Menyebabkan kehilangan hasil panen; daun tua dan buah (baik hijau maupun matang) rentan terserang.,Data.csv: symptoms
+Yellow Leaf Curl Virus,G104,"Daun menjadi kecil, menguning di antara tulang daun, dan menggulung ke atas.",Data.csv: symptoms
+Yellow Leaf Curl Virus,G105,"Pertumbuhan baru terhambat (kerdil), dan tanaman tampak merimbun seperti semak.",Data.csv: symptoms
+Yellow Leaf Curl Virus,G106,"Pada tanaman dewasa, hanya pertumbuhan baru setelah infeksi yang terpengaruh.",Data.csv: symptoms
+Yellow Leaf Curl Virus,G107,"Buah tampak normal, tetapi hasil panen menurun drastis.",Data.csv: symptoms
+Yellow Leaf Curl Virus,G108,Menguning di antara tulang daun,Data.csv: symptoms
+Yellow Leaf Curl Virus,G109,Daun menggulung ke atas,Data.csv: symptoms
+Yellow Leaf Curl Virus,G110,Pertumbuhan tanaman kerdil,Data.csv: symptoms
+Yellow Leaf Curl Virus,G111,Tampilan merimbun seperti semak pada bibit,Data.csv: symptoms
+Yellow Leaf Curl Virus,G112,Pertumbuhan baru berukuran kecil dan cacat bentuk,Data.csv: symptoms
+Yellow Leaf Curl Virus,G113,Daun mengerut dan menebal (terutama pada kacang-kacangan),Data.csv: symptoms
+Yellow Leaf Curl Virus,G114,"Tidak ada gejala yang terlihat pada buah, tetapi hasil panen menurun drastis",Data.csv: symptoms
+Yellow Leaf Curl Virus,G115,"Pertumbuhan kerdil dan tegak, terutama jika terinfeksi sejak dini",Data.csv: symptoms
+Yellow Leaf Curl Virus,G116,Daun kecil yang menggulung ke atas,Data.csv: symptoms
+Yellow Leaf Curl Virus,G117,"Daun sangat mengerut, disertai menguningnya bagian di antara tulang daun dan tepi daun",Data.csv: symptoms
+Yellow Leaf Curl Virus,G118,Ruas batang memendek sehingga tanaman tampak merimbun seperti semak,Data.csv: symptoms
+Yellow Leaf Curl Virus,G119,Bunga rontok (absisi) – bunga tidak berkembang,Data.csv: symptoms
+Yellow Leaf Curl Virus,G120,"Produksi buah menurun drastis, dengan potensi kehilangan hasil hingga 100% pada tanaman yang terinfeksi sejak dini",Data.csv: symptoms

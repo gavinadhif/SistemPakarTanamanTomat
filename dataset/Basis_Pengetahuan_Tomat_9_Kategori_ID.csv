@@ -1,0 +1,465 @@
+﻿Disease,Feature,Description
+Early Blight,symptoms,"Pada bagian pangkal tanaman yang terserang, muncul bercak cokelat berbentuk hampir bulat pada daun dan batang
+Seiring bercak meluas, muncul lingkaran (halo) kuning di sekeliling bercak
+Daun bagian bawah rontok seluruhnya dan bahkan dapat menyebabkan kematian tanaman yang terinfeksi.
+Warna bercak biasanya cokelat hingga hitam. Bercak tampak cekung dan memiliki cincin konsentris yang jelas.
+Batang dan buah juga dapat terinfeksi, ditandai bercak gelap yang cekung.
+Muncul beberapa (umumnya 5 hingga 10) bercak cokelat berbentuk bulat pada selembar daun, lalu bercak-bercak tersebut menyatu dan dapat mematikan seluruh daun.
+Bercak bulat berwarna cokelat tua hingga hitam dengan cincin konsentris gelap. Seiring perkembangan infeksi, bercak dapat menyatu sehingga daun yang terserang menguning dan rontok."
+Early Blight,favourable_condition,"Suhu yang sesuai adalah 24–29°C dengan kelembapan relatif 31–96%, yaitu cuaca hangat dan lembap.
+Kelembapan tinggi dan suhu di atas 75°F (23°C) mendukung perkembangan penyakit.
+Tanaman tomat yang kekurangan unsur hara lebih rentan terhadap hawar daun awal (early blight).
+Jamur dapat bertahan selama musim dingin pada sisa tanaman dan tanah, serta dapat masuk ke lahan melalui benih atau bibit yang terkontaminasi."
+Early Blight,pesticides,"copper hydroxide (penggunaan: jadwal setiap 10 hari, dimulai sebelum berbunga atau saat bercak hawar pertama terlihat.)
+chlorothalonil atau azoxystrobin (dosis: tidak lebih dari dua kali penyemprotan berturut-turut atau total lima kali penyemprotan dalam satu musim tanam)
+Dimethomorph 50% WP (dosis: 2 g/liter air)
+Ziram 27% SC (dosis: 2 ml/liter air)
+Fluxapyroxad 250 G/L + Pyraclostrobin 250 G/L SC (dosis: 0.5 ml/liter air)
+Azoxystrobin 11% + Tebuconazole 18.3% SC (dosis: 1 ml/liter air)
+Kasugamycin 5% + Copper Oxychloride 45% WP (dosis: 1.5 g/liter air)
+Copper Hydroxide 53.8% DF (dosis: 2 g/liter air)
+Mancozeb 75% WP (dosis: 3 g/liter air)
+Azoxystrobin 18.2% SC, Difenoconazole 11.4% SC (dosis: sesuai petunjuk produk)
+Captan 50.0% WP
+Captan 70.0% WP, Hexaconazole 5.0% WP
+Chlorothalonil 33.1% SC, Metalaxyl-M 3.3% SC
+Copper Oxychloride 50.0% WP
+Iprovalicarb 5.5% WP, Propineb 61.25% WP
+Kasugamycin 3.0% SL
+Kitazin 48.0% EC
+Metiram 70.0% WG
+Thifluzamide 24.0% SC
+Zineb 75.0% WP"
+Early Blight,physical_biological,"Pangkas daun dan batang bagian bawah yang dekat dengan permukaan tanah.
+Gunakan irigasi tetes (drip tape), bukan irigasi sprinkler.
+Jaga atau biarkan daun tetap kering selama atau setelah hujan maupun kabut pagi untuk meminimalkan tingkat infeksi.
+
+(Ekstrak alami & antioksidan) (dosis: 1 g/liter air)
+(Pseudomonas fluorescence & Bacillus subtilis) (dosis: penyemprotan: 5 – 10 g/liter air, dan untuk aplikasi pada tanah: 5 kg produk + 100 kg FYM (pupuk kandang) per acre)"
+Early Blight,preventive_measures,"Gunakan benih bersertifikat dari perusahaan terpercaya atau benih yang disimpan dari buah yang bebas penyakit.
+Atur jarak tanam dan arah barisan agar udara dapat bersirkulasi dan sinar matahari dapat menembus.
+Pada akhir musim, singkirkan semua sisa tanaman dari kebun, lalu bakar atau kubur dengan pembajakan dalam.
+
+Terapkan rotasi tanaman dengan tanaman non-Solanaceae seperti kacang-kacangan (misalnya buncis, kacang polong), Brassicaceae (misalnya kembang kol, kubis), atau serealia (misalnya gandum, barley) untuk mengurangi penumpukan spora jamur di dalam tanah.
+Hindari memindahkan bibit yang menunjukkan gejala hawar daun awal (early blight) ke lahan utama.
+Hindari irigasi dari atas (overhead) yang dapat memicu pertumbuhan jamur."
+Late Blight,symptoms,"Tanda awal hawar daun (late blight) adalah bercak atau bercak penyakit berwarna cokelat pada batang tanaman.
+Bercak meluas dengan cepat dan menghasilkan pertumbuhan jamur putih pada kondisi lembap
+Busuk lunak menyebabkan batang cepat rebah dan berubah menjadi cokelat tua.
+Spora putih dapat terlihat terbentuk pada tepi permukaan yang rusak di bagian bawah helai daun.
+
+Daun memiliki lesi berbentuk tidak beraturan dan tampak basah (water-soaked), sering kali dengan halo atau cincin yang lebih terang di sekelilingnya; lesi ini biasanya ditemukan pada daun muda yang lebih lunak di bagian atas tajuk tanaman.
+Bercak terlihat pada kedua sisi daun. Seiring perkembangan penyakit, lesi membesar sehingga daun mencokelat, mengerut, dan mati.
+
+Lesi hitam berair (water-soaked) pada daun dan batang
+Lesi meluas dengan cepat dan seluruh daun menjadi nekrotik (mati jaringan).
+Sporulasi putih (sporangia dan sporangiofor) pada daun."
+Late Blight,favourable_condition,"Suhu optimum adalah 12–15°C dan pada suhu di atas 15°C sporangia langsung menginvasi inang, sedangkan penyebaran tercepat terjadi pada suhu 20–23°C
+
+Patogen menyukai cuaca sejuk dan basah; awan melindungi spora dari paparan radiasi UV matahari, ditambah kondisi yang basah
+
+Kelembapan relatif tinggi (90%) dan suhu pada kisaran 18–26°C, serta musim panas yang hangat dan kering
+
+Malam yang sejuk, siang yang hangat, dan kondisi basah berkepanjangan akibat hujan dan kabut
+Sporangia terbentuk ketika kelembapan relatif (RH) < 90%
+Suhu optimum untuk sporulasi adalah 18–22°C"
+Late Blight,pesticides,"Ametoctradin 27.0% SC, Dimethomorph 20.27% SC
+Azoxystrobin 18.2% SC,Difenoconazole 11.4% SC
+Azoxystrobin 8.3% WG,Mancozeb 66.7% WG
+
+Aplikasi pada tanah Trichoderma asperellum (dosis: 1.0 kg/acre)
+Semprotkan Cyazofamid 34.5% SC (dosis: 80 ml/acre)
+Azoxystrobin 23% SC (dosis: 200 ml/acre)
+Mancozeb 35% SC (dosis: 1000 g/acre)
+Zineb 75% WP (dosis: 800 g/acre)
+Azoxystrobin 18.2% + Difenoconazole 11.4% SC (dosis: 200 ml/acre)
+
+Mancozeb 63% + Carbendazim 12% Wp (dosis: 300 g/200 liter air)
+Tebuconazole + Trifloxystrobin 75 WG (50% + 25% W/W) (dosis: 0.5 g per liter air)
+Fluxapyroxad 33.3% w/v (dosis: 1 ml/kg benih)
+Thiophanate Methyl 45% + Pyraclostrobin 5% FS (dosis: 1.0–1.2 liter per ha)
+Penflufen 13.28% W/W + Trifloxystrobin 13.28% W/W (dosis: 8 ml/kg benih)
+Tebuconazole 38.39% SC (dosis: 250 ml/acre)
+Flusilazole 12.5% + Carbendazim 25% Se (dosis: 384–400 ml per acre)
+Copper Oxychloride 50wp (dosis: 1–2 g/liter air)
+Propineb 70% WP (dosis: 3 g per liter air)
+Copper EDTA 12% (dosis: 0.5 g per liter)
+Azoxystrobin 18.2% + Difenoconazole 11.4% SC (dosis: 200 ml/acre)"
+Late Blight,physical_biological,
+Late Blight,preventive_measures,"Tomat dan kentang tidak boleh ditanam berdampingan.
+Rotasi tanaman selama 2–3 tahun dengan tanaman non-inang
+Penggunaan pupuk yang kaya silikat membantu melawan jamur
+Hindari irigasi pada sore hari menjelang malam dan airi tanaman pada permukaan tanah
+Disinfeksi peralatan lahan"
+Leaf Miner,symptoms,"Larva memakan jaringan dalam daun dengan membuat terowongan atau alur dangkal yang tampak sebagai bercak berubah warna atau cokelat pada permukaan daun
+Daun menggulung akibat aktivitas larva penggorok daun pada permukaan bawah atau atas daun
+Daun yang terserang dapat tampak pucat atau kuning, dan pada kasus berat dapat berubah cokelat serta layu
+Daun tanaman yang terserang menjadi cacat bentuk atau keriput
+Serangan berat penggorok daun dapat menyebabkan pertumbuhan tanaman terhambat (kerdil), sehingga hasil panen menurun dan kualitas produk buruk
+Menyebabkan pengeringan dan gugurnya daun yang terserang sebelum waktunya
+Aktivitas makan larva dapat melemahkan tanaman sehingga lebih rentan terhadap hama dan penyakit lain, seperti kanker sitrus, akibat adanya sumber infeksi sekunder.
+
+Larva merusak bunga, daun, batang, tunas apikal, dan buah muda.
+Serangan berat membuat tanaman tampak seperti terbakar.
+Korokan daun tampak sebagai bercak tidak beraturan yang berisi kotoran larva (frass).
+Daun dapat menjadi terkerangka (hanya tersisa tulang daun) pada serangan berat.
+Muncul lubang, kotoran larva (frass), dan jaring halus pada batang dan buah
+Larva memiliki pita gelap yang jelas di belakang kepalanya.
+
+Daun mengering dan berguguran
+
+Korokan daun: terowongan berkelok-kelok (seperti ular) pada daun akibat aktivitas makan larva.
+Tusukan: lalat betina dewasa menusuk daun dengan ovipositor untuk makan dan meletakkan telur.
+Kerusakan daun: fotosintesis berkurang, tanaman layu, dan daun gugur sebelum waktunya.
+Preferensi inang: sangat banyak menyerang tanaman labu-labuan (mentimun, labu air/botol, labu kuning), kacang-kacangan (kacang hijau, kacang polong), dan tanaman Solanaceae (tomat, terung)."
+Leaf Miner,favourable_condition,"Suhu hangat
+kelembapan tinggi
+keberadaan tanaman inang
+penanaman monokultur
+keberadaan sisa tanaman
+penggunaan pestisida yang berlebihan dapat mendukung serangan penggorok daun.
+
+Suhu: berkembang baik pada 15–30°C (aktivitas puncak pada Februari–April).
+Kelembapan: menyukai kelembapan sedang.
+Ketersediaan inang: polifag; menyerang 24+ tanaman inang, termasuk sayuran, tanaman hias, dan tanaman lapangan."
+Leaf Miner,pesticides,"Insektisida diamida (dosis: 1.7–2.0 ml/liter air)
+Insektisida organofosfat (dosis: 2 ml/liter air)
+Insektisida neonikotinoid (dosis: 0.75–1 ml/liter air)
+Insektisida piretroid (dosis: 0.2–0.6 g/liter air)
+Insektisida karbamat (dosis: 1.3–1.5 g/liter air)
+
+Bacillus thuringiensis (Bt) efektif terhadap larva pada tahap awal.
+Neem merupakan perlakuan kimia yang sesuai dalam pertanian organik.
+Hama ini telah mengembangkan resistensi terhadap banyak insektisida seperti organofosfat, permethrin, piretroid, abamectin, dan spinosad.
+Perangkap feromon yang dikombinasikan dengan insektisida digunakan untuk perangkap massal.
+Gunakan 45–50 perangkap feromon per hektare untuk pengendalian yang efektif.
+
+Semprot NSKE 5% (ekstrak biji mimba/neem)
+Semprot ekstrak inti biji neem (Neem Seed Kernel Extract) 5%.
+Cyantraniliprole 10.26 OD 1.8 ml/liter.
+
+Insektisida spinosin – Tipe 1 (dosis: 60 mL)
+Insektisida spinosin – Tipe 2 (dosis: 80–100 mL)
+Insektisida piretroid (dosis: 330 mL)
+Insektisida piretroid + organofosfat (dosis: 500 mL)"
+Leaf Miner,physical_biological,Kumpulkan dan musnahkan daun yang terkorok
+Leaf Miner,preventive_measures,"Jaga sanitasi lahan dengan membuang dan memusnahkan daun yang terserang serta sisa tanaman
+Penggunaan perangkap lengket membantu mendeteksi aktivitas penggorok daun sejak dini sehingga penanganan dapat dilakukan tepat waktu
+Pelepasan agen pengendali hayati seperti tawon parasitoid dan serangga predator dapat digunakan untuk mengendalikan populasi penggorok daun
+Penyemprotan minyak neem pada permukaan daun
+Penggunaan pupuk yang optimal
+Hindari kondisi cekaman air di lahan karena dapat melemahkan tanaman
+Rotasi tanaman dengan tanaman non-inang
+Mulsa reflektif
+Pantau tanaman secara rutin setiap minggu untuk mengetahui tanda-tanda serangan penggorok daun
+
+Gunakan bahan tanam yang bebas hama. Gunakan benih bersertifikat, dan untuk bibit, singkirkan yang menunjukkan tanda serangan penggorok daun.
+Hindari menanam tomat di dekat inang alternatif seperti cabai, terung, dan kentang
+Cabut dan bakar sisa tanaman segera setelah panen, lalu bajak lahan untuk membunuh larva dan pupa.
+Berikan mulsa pada permukaan tanah untuk mencegah pupa masuk ke dalam tanah untuk berkembang lebih lanjut.
+Tanam pagar tanaman Tephrosia di sekeliling petak untuk mengusir penggorok daun dari tanaman.
+Airi petak pada kapasitas lapang untuk tanaman yang diairi guna menjaga kesehatan tanaman.
+Lakukan rotasi tomat dengan tanaman non-Solanaceae seperti jagung, sorgum, millet, atau singkong setiap 2 tahun.
+Dorong praktik yang melestarikan musuh alami seperti Braconids, Eulophids, dan N tenuis."
+Leaf Mold,symptoms,"Daun yang paling tua terinfeksi lebih dahulu.
+Bercak hijau kekuningan pucat, biasanya berukuran kurang dari 1/4 inci, tanpa batas yang jelas, terbentuk pada permukaan atas daun.
+Jamur beludru berwarna hijau zaitun hingga cokelat terbentuk pada permukaan bawah daun, tepat di bawah bercak daun.
+Bercak daun saling menyatu dan berubah cokelat. Daun layu dan mati tetapi sering kali tetap menempel pada tanaman.
+Bunga yang terinfeksi menghitam dan rontok.
+Infeksi pada buah dimulai sebagai area hitam yang halus dan tidak beraturan pada ujung tangkai buah. Seiring perkembangan penyakit, area yang terinfeksi menjadi cekung, kering, dan seperti kulit.
+Gejala dimulai sebagai bercak hijau pucat hingga kekuningan pada permukaan atas daun yang kemudian berubah menjadi kuning terang
+Daun yang terinfeksi menggulung, layu, dan sering gugur dari tanaman"
+Leaf Mold,favourable_condition,"kelembapan tinggi
+menyebar melalui angin atau percikan air
+kelembapan lebih dari 85%
+Benih yang terinfeksi juga dapat memperluas penyebaran patogen"
+Leaf Mold,pesticides,"Fungisida berbahan dasar tembaga
+Biofungisida
+produk yang mengandung azoxystrobin dan difenoconazole
+Captan 70.0% WP
+Hexaconazole 5.0% WP
+Mancozeb 75.0% WP
+Formulasi tembaga"
+Leaf Mold,physical_biological,"singkirkan tanaman yang sakit dan tanaman di sekitarnya untuk mencegah penyebaran patogen
+Buang bahan tanaman yang terinfeksi dan sterilkan semua peralatan yang digunakan di rumah kaca tersebut."
+Leaf Mold,preventive_measures,"Saat menanam, gunakan hanya benih bersertifikat bebas penyakit atau benih yang telah diberi perlakuan
+Singkirkan dan musnahkan semua sisa tanaman setelah panen
+Sanitasi rumah kaca di antara musim tanam
+Gunakan kipas dan hindari penyiraman dari atas untuk meminimalkan kebasahan daun"
+Mosaic Virus,symptoms,"Infeksi awal dapat membuat tanaman tampak kuning dan secara umum kerdil.
+Daun belang-belang (mottling) hijau tua dan hijau muda.
+Daun dapat menjadi terpuntir, cacat bentuk, atau mengecil.
+Pada suhu hangat, beberapa kultivar dapat menunjukkan tanda jaringan daun yang mati.
+Kemungkinan buah matang tidak merata.
+Total hasil panen dan ukuran rata-rata buah menurun.
+Buah dengan bercak tidak beraturan berwarna tidak normal yang dapat menonjol atau cekung.
+Buah dapat menunjukkan pencokelatan tepat di bawah kulit (brownwall).
+
+Garis/goresan/bercak berwarna kuning, putih, atau hijau pada daun
+Daun keriput, menggulung, atau kecil
+Menguningnya tulang daun secara nyata (hanya pada tulang daun)
+Pertumbuhan kerdil dan hasil panen menurun
+Buah yang terinfeksi tampak belang-belang dan muncul area menonjol seperti kutil
+lepuh hijau tua
+batang yang mengering dengan cepat"
+Mosaic Virus,favourable_condition,"Virus menyebar melalui kontak dengan pakaian, tangan pekerja, sentuhan tanaman yang terinfeksi dengan tanaman sehat, sisa tanaman, dan peralatan."
+Mosaic Virus,pesticides,"Rendam benih tomat dalam natrium hipoklorit 1% (= pemutih/bleach = NaOCl) selama 10 menit
+Fungisida TIDAK dapat mengobati penyakit virus ini."
+Mosaic Virus,physical_biological,"trisodium phosphate (Na3PO4) (dosis: rendam benih dalam larutan 10% selama minimal 15 menit.)
+Perlakuan air panas tidak memadai untuk sebagian virus tomat."
+Mosaic Virus,preventive_measures,"Gunakan varietas tahan. Gunakan benih bersih yang tidak terinfeksi dari tomat sehat, atau benih bersertifikat, karena virus ini dapat bertahan hidup pada benih dan menginfeksi tanaman saat berkecambah.
+Selama bekerja di lahan, cuci tangan, pakaian, dan peralatan dengan sabun/pemutih/deterjen untuk menghilangkan virus. Jika menggunakan pemutih, kenakan sarung tangan atau segera cuci tangan dengan banyak air setelahnya karena pemutih bersifat toksik.
+Sebelum dan sesudah pekerjaan pindah tanam, rendam peralatan dalam air mendidih selama 5 menit, lalu cuci dengan sabun yang kuat atau pemutih.
+Singkirkan tanaman tomat liar yang tumbuh sendiri (volunteer) serta tanaman Solanaceae terlantar atau liar, seperti cabai merah atau nightshade.
+Cabut akar setelah panen sebelum menanam untuk musim berikutnya, karena virus ini juga bertahan sampai tingkat tertentu pada akar.
+
+Tanam varietas tahan jika tersedia atau beli bibit dari sumber terpercaya.
+JANGAN menyimpan benih dari tanaman yang terinfeksi.
+Lakukan perlakuan setempat dengan produk pengendali hama alami yang paling rendah toksisitasnya, seperti insektisida berbahan dasar neem atau insektisida debu mineral, untuk mengurangi jumlah serangga pembawa penyakit.
+Penutup baris tanaman (row cover) membantu menjauhkan hama serangga dari tanaman rentan/bibit dan sebaiknya dipasang sampai masa berbunga.
+Singkirkan semua gulma tahunan dengan herbisida yang paling rendah toksisitasnya dalam radius 100 yard dari petak kebun Anda.
+Virus dapat menyebar melalui aktivitas manusia, peralatan, dan perlengkapan. Sering-seringlah mencuci tangan dan mendisinfeksi peralatan kebun, ajir, tali pengikat, pot, meja rumah kaca, dan sebagainya (satu bagian pemutih berbanding 4 bagian air) untuk mengurangi risiko kontaminasi.
+Hindari bekerja di kebun saat kondisi lembap (virus mudah menyebar ketika tanaman basah).
+Hindari penggunaan tembakau di sekitar tanaman rentan. Rokok dan produk tembakau lainnya dapat terinfeksi dan menyebarkan virus.
+Singkirkan dan musnahkan semua tanaman yang terinfeksi. JANGAN dijadikan kompos."
+Septoria,symptoms,"Bercak kecil berwarna abu-abu, bulat, dan tampak basah dengan tepi cokelat tua muncul pada sisi bawah daun yang lebih tua.
+Bercak yang terinfeksi membesar, menyatu, dan titik-titik hitam muncul di bagian tengahnya.
+Daun yang terinfeksi parah akan menguning ringan, layu, dan rontok, sementara kerontokan daun menyebabkan buah terbakar matahari (sun scald).
+
+Muncul pertama kali pada daun bagian bawah setelah buah pertama terbentuk.
+Bercak berbentuk bulat, berdiameter 1/16 hingga 1/4 inci.
+Tepi cokelat tua
+Bagian tengah berwarna cokelat muda hingga abu-abu
+Badan buah jamur berukuran kecil dan berwarna hitam di bagian tengah (piknidia)
+Banyak bercak pada satu daun merupakan hal yang umum.
+Penyakit berkembang ke atas dari daun tua ke daun muda.
+Daun berubah kuning, kemudian cokelat, dan layu.
+Infeksi pada buah jarang terjadi."
+Septoria,favourable_condition,"Disebabkan oleh jamur yang hanya menginfeksi tomat dan kentang (Septoria Lucopersici)
+Perkembangan dimulai pada suhu 15–27°C, sedangkan suhu optimum adalah 25°C
+Menyebar melalui air dari atas, percikan hujan, dan serangga seperti kumbang.
+
+Cuaca basah dan lembap dalam waktu yang lama.
+Kelembapan relatif tinggi.
+Daun basah (akibat hujan atau irigasi dari atas).
+Suhu 60–80°F (15–27°C).
+Keberadaan sisa tanaman yang terinfeksi, gulma keluarga nightshade, atau peralatan/ajir yang terkontaminasi."
+Septoria,pesticides,"Captan 70.0% WP,Hexaconazole 5.0% WP
+Copper Oxychloride 50.0% WP
+Fluxapyroxad 25.0% SC, Pyraclostrobin 25.0% SC
+Mancozeb 75.0% WP"
+Septoria,physical_biological,"Fungisida berbahan dasar tembaga, seperti bubur Bordeaux (Bordeaux mixture), copper hydroxide, copper sulphate, atau copper oxychloride sulphate.
+(dosis: aplikasikan dengan interval 7–10 hari sepanjang akhir musim)
+
+Singkirkan daun yang terinfeksi sejak awal musim.
+Musnahkan semua bahan tanaman yang terinfeksi pada akhir musim (jangan dijadikan kompos).
+Perbaiki sirkulasi udara dengan memberi ajir/kurungan pada tanaman.
+Berikan mulsa setelah tanah menghangat untuk mengurangi percikan tanah.
+Hindari penyiraman dari atas; gunakan selang tetes atau soaker hose.
+Siram pada pagi hari agar daun sempat mengering.
+Kendalikan gulma, terutama nightshade dan horsenettle (inang alternatif).
+Terapkan rotasi tanaman – hindari menanam tomat kembali di tempat yang sama selama 1–2 tahun."
+Septoria,preventive_measures,"Sanitasi ajir, kurungan, dan peralatan di antara musim tanam.
+Jaga lahan tetap bersih dan bebas gulma.
+Gunakan benih/bibit bebas penyakit.
+Lakukan penyemprotan fungisida pencegahan jika kondisi mendukung perkembangan penyakit.
+Hindari bekerja di kebun saat tanaman basah."
+Spider Mites,symptoms,"Daun menguning, sering dikira kekurangan unsur hara atau penyakit.
+Jaring halus pada sisi bawah daun.
+Bercak gelap pada kedua sisi daun (akibat kerusakan karena isapan tungau).
+Bintik-bintik (stippling; bintik kecil kuning/putih) diikuti pencokelatan dan kematian daun.
+Pertumbuhan kerdil dan akhirnya tanaman rubuh pada serangan berat.
+Pada kasus berat, disarankan untuk mencabut tanaman.
+
+Bintik kecil putih kekuningan pada permukaan atas dan bawah daun.
+Daun tampak keperakan akibat serangan yang berat.
+Jaring halus pada daun (terutama pada serangan berat).
+Daun dapat mengering dan mati pada kasus berat.
+Buah retak juga dapat terjadi akibat kerusakan oleh tungau.
+Tungau berukuran sangat kecil (0.6 mm), tidak bersayap, dan perlu kaca pembesar (lup) untuk dapat dilihat."
+Spider Mites,favourable_condition,"Cuaca panas dan kering
+Tanaman yang mengalami cekaman, terutama yang kekurangan air
+Kurangnya predator alami
+Tanaman yang dipupuk dengan baik (dapat memicu peningkatan populasi tungau)
+Musim dingin yang ringan, saat tungau dapat bertahan hidup dan terus berkembang biak
+Penyebaran oleh angin – tungau dapat “melayang” (ballooning) ke tanaman di dekatnya ketika kondisi inang menurun
+
+Lingkungan yang kering dan berdebu mendukung terjadinya serangan.
+Lahan dengan inang di dekatnya seperti stroberi, melon, terung, dan bunga.
+Penggunaan pupuk nitrogen yang berlebihan meningkatkan kerentanan.
+Tidak adanya predator (akibat penggunaan pestisida berspektrum luas)."
+Spider Mites,pesticides,"Sabun insektisida
+Belerang (sulfur)
+Spinosad
+Biopestisida jamur (berbasis Beauveria)
+Biopestisida jamur (berbasis Isaria)
+Pestisida berbahan dasar silika
+Sabun insektisida
+Pestisida berbahan dasar minyak neem
+Grandevo, Venerate
+Minyak nabati (botanical oils)"
+Spider Mites,physical_biological,"Semprotan air yang kuat untuk merontokkan tungau (hanya pada tahap awal)
+Cabut tanaman yang terserang parah untuk mencegah penyebaran
+Lakukan pemantauan (scouting) secara rutin untuk mendeteksi serangan sejak dini
+Hindari cekaman air — tanaman tomat membutuhkan sekitar 1.5 galon air/hari
+
+Pantau tanaman setiap minggu dengan kaca pembesar (lup)
+Semprot daun dengan air untuk menghilangkan tungau (hindari saat terjadi wabah penyakit)
+Singkirkan dan musnahkan tanaman muda yang terinfeksi (jangan dijadikan kompos)"
+Spider Mites,physical_biological,"Lepaskan tungau predator yang menguntungkan:
+Phytoseiulus persimilis
+Neoseiulus cucumeris
+
+Semprotan larutan cabai:
+Campurkan 20 g cabai yang ditumbuk dalam 1 L air, rendam selama 1 hari
+Encerkan dengan 5 L air, semprotkan setiap minggu
+Efektif terhadap tungau yang baru menetas"
+Spider Mites,preventive_measures,"Pemantauan/scouting secara rutin, terutama pada cuaca panas dan kering.
+Siram secara konsisten agar tanaman tomat tidak mengalami cekaman.
+Jaga agar tanaman tidak menyentuh tanah dan beri jarak tanam untuk sirkulasi udara.
+Hindari pemupukan berlebihan, terutama dengan nitrogen.
+Gunakan semprotan pencegahan (belerang, minyak nabati) sebelum serangan dimulai.
+Aplikasikan akarisida organik pada tanda pertama munculnya tungau.
+
+Mulai dengan bibit yang bebas hama
+Jangan menanam tomat di dekat stroberi, melon, terung, atau tanaman hias
+Pertahankan jarak tanam (100 cm x 60 cm) antar tanaman tomat
+Jaga lahan bebas gulma, terutama dengan menyingkirkan Solanum americanum (Nduwe)
+Tanam pada tanah lempung berpasir (loamy) yang kaya bahan organik
+Berikan nutrisi yang seimbang; hindari nitrogen berlebihan
+Hindari kondisi kering dan berdebu"
+Target Spot,symptoms,"bercak kecil sebesar ujung jarum yang tampak basah (water-soaked) pada permukaan atas daun
+Berkembang menjadi lesi nekrotik kecil dengan bagian tengah cokelat muda dan tepi gelap.
+Lesi membesar, membentuk bercak bulat dengan bagian tengah abu-abu hingga cokelat pucat dan cincin konsentris gelap (tampak seperti papan sasaran).
+Halo kuning dapat terbentuk di sekeliling lesi.
+Infeksi berat menyebabkan hawar daun dan kerontokan daun sebelum waktunya (""melting-out"" atau daun luruh pada tajuk bagian dalam).
+
+Lesi hawar dengan lingkaran konsentris (tampak seperti papan sasaran)
+Halo kuning di sekeliling lesi
+Kerontokan anak daun yang parah (daun gugur)
+Bercak nekrotik pada daun dan batang
+Perkembangan penyakit sangat cepat hingga tanaman rubuh dalam 2–3 hari setelah gejala muncul (dalam uji patogenisitas)
+
+Lesi nekrotik dengan bagian tengah cokelat muda.
+Lesi menyatu sehingga membentuk area hawar yang luas.
+Kerontokan daun yang parah (hingga 75% dilaporkan dalam uji coba).
+
+Muncul bercak bulat dengan cincin konsentris (tampak seperti papan sasaran).
+Lesi jamur berwarna hitam dan seperti beludru terbentuk di bagian tengah.
+Bercak menjadi lebih besar dan berlekuk (cekung kecil) seiring buah matang.
+
+Muncul pada semua bagian tanaman tomat yang berada di atas tanah.
+Dimulai sebagai bercak kecil berair (water-soaked) pada daun yang lebih tua, kemudian membentuk lesi bercincin dengan halo kuning.
+Lesi muncul pada batang dan tangkai daun sebagai bercak cokelat yang tipis.
+Pada buah muda: lesi kecil dan kering.
+Pada buah matang: lesi bulat besar dengan bagian tengah cokelat yang retak.
+Menyebabkan kehilangan hasil panen; daun tua dan buah (baik hijau maupun matang) rentan terserang."
+Target Spot,favourable_condition,"Kelembapan tinggi (di atas 80%) – dipertahankan dalam kondisi rumah kaca selama pengujian
+Kondisi lembap – penyemprotan kabut yang sering dalam uji coba mendorong munculnya gejala
+Suhu hangat – isolasi patogen dilakukan pada 25°C, yang mendukung pertumbuhan jamur
+
+Tekanan penyakit teramati pada musim semi dan musim gugur.
+Cuaca badai meningkatkan kerentanan buah melalui luka fisik.
+Penyakit lebih sedikit pada kondisi kering (seperti terlihat pada musim semi 2002).
+Tanah pasir halus Oldsmar.
+Mulsa plastik, irigasi rembesan (seepage), dan jarak tanam bibit yang rapat dapat berkontribusi pada terbentuknya iklim mikro yang mendukung penyakit."
+Target Spot,pesticides,"Azoxystrobin (Dosis: 0.11 kg/ha)
+Chlorothalonil (Dosis: 1.3–1.7 kg/ha)
+Mancozeb (Dosis: 1.4–1.8 kg/ha)
+Copper hydroxide (Dosis: 1.7 kg/ha)
+Fumoxate + Mancozeb (Dosis: 1.2–1.5 kg/ha)
+Pyraclostrobin (Dosis: 0.11–0.17 kg/ha)
+Acibenzolar-S-methyl (Dosis: 12.1 kg/ha)
+Harpin protein (Dosis: 0.63 kg/ha)
+
+Azoxystrobin 250g/l SC (Dosis: 10 ml/10 L)
+Mancozeb 80% WP (Dosis: 20 g/10 L)
+Pyraclastrobin 5% + Metiram 55% WG (Dosis: 20 g/10 L)
+Azoxystrobin 11% + Tebuconazole 18.3% W/W SC (Dosis: 3.5 ml/10 L)"
+Target Spot,physical_biological,Bacillus subtilis (strain QST 713) (Dosis: 4.5 kg/ha)
+Target Spot,preventive_measures,"Mulai menyemprot 7 hari setelah pindah tanam.
+Lakukan rotasi atau pergantian fungisida untuk mencegah resistensi (terutama pada strobilurin seperti azoxystrobin).
+Kombinasikan aktivator SAR (systemic acquired resistance) dengan fungisida untuk perlindungan yang lebih baik (misalnya Acibenzolar-S-methyl + copper hydroxide + mancozeb).
+Hindari mengandalkan pengendalian hayati saja, seperti Bacillus subtilis strain QST 713.
+Pengendalian Hama Terpadu (Integrated Pest Management/IPM): gunakan pilihan bertoksisitas rendah seperti aktivator SAR (misalnya acibenzolar-S-methyl) untuk mengurangi dampak lingkungan.
+Jangan melebihi dua kali penyemprotan azoxystrobin berturut-turut untuk menghindari resistensi.
+
+Singkirkan sisa tanaman lama setelah panen.
+Jangan dijadikan kompos kecuali kompos cukup panas untuk membunuh spora.
+Hindari menanam tomat, cabai, terung, atau kentang di tempat yang sama selama minimal 3 tahun.
+Tanam di bawah sinar matahari penuh.
+Beri jarak tanam yang tepat.
+Gunakan kurungan atau ajir untuk mengangkat tanaman dari tanah.
+Siram pada pagi hari.
+Siram pada pangkal tanaman menggunakan soaker hose atau irigasi tetes.
+Jaga agar daun tetap kering.
+Berikan mulsa setebal hingga 3 inci untuk mencegah kontak dengan tanah.
+Gunakan lebih sedikit jika siput/bekicot menjadi masalah."
+Yellow Leaf Curl Virus,symptoms,"Daun menjadi kecil, menguning di antara tulang daun, dan menggulung ke atas.
+Pertumbuhan baru terhambat (kerdil), dan tanaman tampak merimbun seperti semak.
+Pada tanaman dewasa, hanya pertumbuhan baru setelah infeksi yang terpengaruh.
+Buah tampak normal, tetapi hasil panen menurun drastis.
+
+Menguning di antara tulang daun
+Daun menggulung ke atas
+Pertumbuhan tanaman kerdil
+Tampilan merimbun seperti semak pada bibit
+Pertumbuhan baru berukuran kecil dan cacat bentuk
+Daun mengerut dan menebal (terutama pada kacang-kacangan)
+Tidak ada gejala yang terlihat pada buah, tetapi hasil panen menurun drastis
+
+Pertumbuhan kerdil dan tegak, terutama jika terinfeksi sejak dini
+Daun kecil yang menggulung ke atas
+Daun sangat mengerut, disertai menguningnya bagian di antara tulang daun dan tepi daun
+Ruas batang memendek sehingga tanaman tampak merimbun seperti semak
+Bunga rontok (absisi) – bunga tidak berkembang
+Produksi buah menurun drastis, dengan potensi kehilangan hasil hingga 100% pada tanaman yang terinfeksi sejak dini"
+Yellow Leaf Curl Virus,favourable_condition,"Keberadaan kutu kebul (whitefly) — vektor utama
+Iklim hangat, khas wilayah tropis/subtropis
+Budidaya di rumah kaca atau lahan terbuka tempat kutu kebul berada
+Tanaman musim gugur terdampak lebih parah
+Tanaman yang ditanam di dekat gulma atau tanaman yang terinfeksi
+
+Iklim hangat, tropis, atau subtropis
+Keberadaan kutu kebul Bemisia, terutama di daerah tanpa kematian akibat musim dingin (winter kill)
+Tidak adanya periode bebas tomat, yang sebenarnya membantu mengurangi populasi virus dan vektor
+Keberadaan tanaman inang atau gulma yang tidak menunjukkan gejala
+Rumah kaca atau lingkungan tempat kutu kebul dapat bertahan hidup sepanjang tahun
+Pergerakan jarak jauh melalui bibit yang terinfeksi atau kutu kebul yang terbawa angin/angin topan"
+Yellow Leaf Curl Virus,pesticides,Neonikotinoid
+Yellow Leaf Curl Virus,physical_biological,"Gunakan kultivar tomat (misalnya yang mengandung gen Ty-1, Ty-2, Ty-3)
+Singkirkan bibit yang terinfeksi dan tanaman tomat liar yang tumbuh sendiri (volunteer)
+Gunakan jaring anti serangga yang rapat di rumah kaca
+Sterilisasi permukaan benih (etanol 70% + Clorox)
+Jaga persemaian tetap bebas kutu kebul
+Singkirkan kutu kebul dan gulma inang perantara
+Ubah musim tanam
+Singkirkan tanaman yang dicurigai terkena TYLCV sejak awal musim
+Hindari menanam tomat di dekat tanaman inang kutu kebul lainnya
+Terapkan rotasi tanaman
+Tanam bibit yang bebas virus dan bebas kutu kebul
+Singkirkan gulma dan jaga kebersihan lahan dengan baik
+
+Gunakan varietas tomat tahan TYLCV
+Gunakan bibit yang bebas virus dan bebas kutu kebul
+Hindari mengimpor bibit tomat atau tanaman inang kutu kebul lainnya dari daerah yang terinfeksi. Tanam tepat setelah periode bebas tomat atau musim dingin untuk mengurangi risiko infeksi awal
+Hindari menanam di dekat lahan tomat tua yang terinfeksi
+Kendalikan populasi kutu kebul
+Gunakan penutup baris (row cover) berjaring halus untuk menghalangi kutu kebul secara fisik
+Cabut dan buang (rogue) tanaman yang terinfeksi sejak dini jika angka kejadiannya rendah
+Pertahankan zona bebas gulma di sekitar lahan untuk menghilangkan inang alternatif
+Singkirkan dan musnahkan sisa tanaman dan tanaman tomat liar yang tumbuh sendiri (volunteer)
+Terapkan periode bebas inang (terutama di wilayah tanpa musim dingin) untuk memutus siklus virus dan vektor"
+Yellow Leaf Curl Virus,preventive_measures,"Gunakan benih dan bibit bersertifikat bebas virus
+Hindari daerah yang diketahui terinfestasi kutu kebul
+Masukkan varietas tahan ke dalam sistem tanam
+Pantau populasi kutu kebul dan gejala virus
+Uji lot benih untuk mengetahui keberadaan TYLCV sebelum digunakan secara komersial
+Kendalikan kutu kebul menggunakan bangunan anti serangga dan insektisida
+Lakukan pemantauan lahan secara ketat di tempat benih dikumpulkan
+
+Deteksi dini menggunakan uji cepat
+Hindari perpindahan bibit dari wilayah yang terinfeksi
+Koordinasi regional dalam pembersihan lahan dan pengelolaan kutu kebul
+Terapkan periode bebas inang untuk menghentikan penumpukan virus
+Pantau secara rutin dan segera laporkan gejala"

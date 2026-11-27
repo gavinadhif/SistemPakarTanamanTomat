@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#F6F9F5">
+    <title>Diagnosis Tanaman Tomat</title>
+    <style>
+        :root {
+            color-scheme: light;
+            font-family: Inter, "Segoe UI", Arial, sans-serif;
+            background: #F6F9F5;
+            color: #24352A;
+            font-synthesis: none;
+        }
+        * { box-sizing: border-box; }
+        body {
+            margin: 0;
+            min-width: 320px;
+            background: #F6F9F5;
+            color: #24352A;
+            line-height: 1.6;
+        }
+        .page {
+            width: min(100% - 40px, 1080px);
+            margin: 0 auto;
+            padding: 48px 0 64px;
+        }
+        .eyebrow {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 16px;
+            padding: 5px 12px;
+            border: 1px solid #DCEBDD;
+            border-radius: 999px;
+            background: #DCEBDD;
+            color: #244B35;
+            font-size: 12px;
+            font-weight: 700;
+            letter-spacing: .06em;
+        }
+        .eyebrow::before {
+            width: 7px;
+            height: 7px;
+            border-radius: 50%;
+            background: #3D915B;
+            content: "";
+        }
+        h1, h2, h3, p { margin-top: 0; }
+        h1 {
+            max-width: 850px;
+            margin-bottom: 12px;
+            color: #244B35;
+            font-size: clamp(30px, 5vw, 46px);
+            letter-spacing: -.035em;
+            line-height: 1.12;
+            overflow-wrap: anywhere;
+        }
+        .intro {
+            max-width: 720px;
+            margin-bottom: 32px;
+            color: #647568;
+        }
+        .hero-card .intro { margin-bottom: 0; }
+        .section {
+            margin-top: 30px;
+            padding: 24px;
+            border: 1px solid #D5E2D5;
+            border-radius: 16px;
+            background: #E8F1E8;
+            box-shadow: 0 1px 4px rgba(36, 75, 53, .05);
+        }
+        h2 {
+            margin-bottom: 6px;
+            color: #244B35;
+            font-size: 24px;
+        }
+        .hint, .selected-count {
+            color: #647568;
+        }
+        .selected-count {
+            min-height: 24px;
+            margin: 14px 0;
+            font-size: 14px;
+        }
+        .symptom-grid {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 12px;
+        }
+        details, .result-card {
+            min-width: 0;
+            border: 1px solid #D5E2D5;
+            border-radius: 12px;
+            background: #FFFFFF;
+            box-shadow: 0 1px 3px rgba(36, 75, 53, .04);
+        }
+        details {
+            align-self: start;
+            overflow: hidden;
+            transition: border-color .16s ease, background-color .16s ease;
+        }
+        details:hover {
+            border-color: #9AB89E;
+        }
+        details[open] {
+            border-color: #75B987;
+        }
+        summary {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 14px 16px;
+            color: #24352A;
+            cursor: pointer;
+            font-weight: 600;
+            list-style: none;
+        }
+        summary::-webkit-details-marker { display: none; }
+        summary::before {
+            content: "›";
+            color: #3D915B;
+            font-size: 20px;
+            line-height: 1;
+            transition: transform .16s ease;
+        }
+        details[open] > summary {
+            background: #E8F1E8;
+            color: #244B35;
+        }
+        details[open] > summary::before {
+            transform: rotate(90deg);
+        }
+        .accordion-count {
+            margin-left: auto;
+            padding: 2px 8px;
+            border: 1px solid #D5E2D5;
+            border-radius: 999px;
+            background: #F6F9F5;
+            color: #647568;
+            font-size: 12px;
+            font-weight: 500;
+            white-space: nowrap;
+        }
+        .symptom-list {
+            display: grid;
+            gap: 2px;
+            padding: 0 16px 14px;
+        }
+        .symptom-option {
+            display: flex;
+            align-items: flex-start;
+            gap: 10px;
+            padding: 8px 0;
+            color: #24352A;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        .symptom-option input {
+            width: 16px;
+            height: 16px;
+            flex: 0 0 auto;
+            margin: 3px 0 0;
+            accent-color: #3D915B;
+        }
+        .primary-button {
+            min-height: 46px;
+            margin-top: 20px;
+            padding: 0 20px;
+            border: 1px solid #244B35;
+            border-radius: 9px;
+            background: #244B35;
+            color: #fff;
+            cursor: pointer;
+            font: inherit;
+            font-weight: 700;
+            transition: background-color .16s ease, border-color .16s ease;
+        }
+        .primary-button:hover {
+            border-color: #1B4332;
+            background: #1B4332;
+        }
+        .primary-button:focus-visible,
+        input:focus-visible,
+        summary:focus-visible {
+            outline: 2px solid #3D915B;
+            outline-offset: 3px;
+        }
+        .message {
+            margin: 18px 0;
+            padding: 12px 14px;
+            border: 1px solid #E66B59;
+            border-radius: 9px;
+            background: #FFFFFF;
+            color: #24352A;
+        }
+        .results {
+            display: grid;
+            gap: 16px;
+            margin-top: 18px;
+        }
+        .result-card { padding: 22px; }
+        .hero-card {
+            position: relative;
+            overflow: hidden;
+            padding: 28px;
+            border-color: #355C43;
+            border-radius: 16px;
+            background: #244B35;
+            box-shadow: 0 2px 6px rgba(36, 75, 53, .08);
+        }
+        .hero-card::after {
+            position: absolute;
+            top: 28px;
+            right: 28px;
+            width: 48px;
+            height: 3px;
+            border-radius: 99px;
+            background: #75B987;
+            content: "";
+        }
+        .hero-card h1 { color: #FFFFFF; }
+        .hero-card .intro { color: #E0EBE2; }
+        .result-heading {
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 16px;
+        }
+        .result-heading h3 {
+            margin: 0;
+            color: #244B35;
+            font-size: 21px;
+        }
+        .match-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 4px 9px;
+            border: 1px solid #E66B59;
+            border-radius: 999px;
+            color: #244B35;
+            font-size: 12px;
+            font-weight: 600;
+        }
+        .tomato-dot {
+            width: 7px;
+            height: 7px;
+            border-radius: 50%;
+            background: #E66B59;
+        }
+        .metrics {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 12px;
+        }
+        .metric {
+            padding: 12px 14px;
+            border: 1px solid #D5E2D5;
+            border-radius: 9px;
+            background: #FFFFFF;
+        }
+        .metric-label {
+            display: block;
+            color: #647568;
+            font-size: 13px;
+        }
+        .metric-value {
+            color: #24352A;
+            font-size: 19px;
+            font-weight: 700;
+        }
+        .progress-track {
+            height: 8px;
+            margin: 14px 0 20px;
+            overflow: hidden;
+            border-radius: 99px;
+            background: #D5E2D5;
+        }
+        .progress-fill {
+            height: 100%;
+            border-radius: inherit;
+            background: #3D915B;
+        }
+        .result-card h4 {
+            margin: 18px 0 8px;
+            color: #244B35;
+            font-size: 15px;
+        }
+        .result-card ul {
+            margin: 0;
+            padding-left: 20px;
+            color: #24352A;
+        }
+        .result-card li + li { margin-top: 5px; }
+        @media (max-width: 680px) {
+            .page {
+                width: min(100% - 28px, 1080px);
+                padding: 28px 0 44px;
+            }
+            .symptom-grid { grid-template-columns: 1fr; }
+            .result-card { padding: 17px; }
+            .hero-card { padding: 22px; }
+            .section { padding: 18px; }
+        }
+        @media (max-width: 420px) {
+            .metrics { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <main class="page">
+        <header class="result-card hero-card">
+            <div class="eyebrow">SISTEM PAKAR · TANAMAN TOMAT</div>
+            <h1>Diagnosis Penyakit dan Hama Tanaman Tomat</h1>
+            <p class="intro">
+                Pilih gejala yang terlihat pada tanaman untuk mendapatkan
+                perkiraan diagnosis beserta informasi penanganannya.
+            </p>
+        </header>
+
+        <section class="section" aria-labelledby="symptom-title">
+            <h2 id="symptom-title">Pilih gejala</h2>
+            <p class="hint">Pilih minimal 3 gejala yang sesuai dengan kondisi tanaman.</p>
+
+            <form method="post">
+                {% csrf_token %}
+                <p class="selected-count" id="selected-count" aria-live="polite">
+                    {{ kode_terpilih|length }} gejala dipilih
+                </p>
+
+                <div class="symptom-grid">
+                    {% for kelompok in kelompok_gejala %}
+                        <details data-symptom-group>
+                            <summary>
+                                <span>{{ kelompok.nama }}</span>
+                                <span class="accordion-count">0 dipilih</span>
+                            </summary>
+                            <div class="symptom-list">
+                                {% for item in kelompok.gejala %}
+                                    <label class="symptom-option">
+                                        <input
+                                            type="checkbox"
+                                            name="gejala"
+                                            value="{{ item.Kode_Gejala }}"
+                                            {% if item.Kode_Gejala in kode_terpilih %}checked{% endif %}
+                                        >
+                                        <span>{{ item.Gejala }}</span>
+                                    </label>
+                                {% endfor %}
+                            </div>
+                        </details>
+                    {% endfor %}
+                </div>
+
+                <button class="primary-button" type="submit">Mulai diagnosis</button>
+            </form>
+
+            {% if pesan_error %}
+                <p class="message" role="alert">{{ pesan_error }}</p>
+            {% endif %}
+        </section>
+
+        {% if hasil_diagnosis %}
+            <section class="section" aria-labelledby="results-title">
+                <h2 id="results-title">Hasil diagnosis</h2>
+                <div class="results">
+                    {% for hasil in hasil_diagnosis %}
+                        <article class="result-card">
+                            <div class="result-heading">
+                                <h3>{{ hasil.nama }}</h3>
+                                {% if forloop.first %}
+                                    <span class="match-badge">
+                                        <span class="tomato-dot" aria-hidden="true"></span>
+                                        Kecocokan tertinggi
+                                    </span>
+                                {% endif %}
+                            </div>
+                            <div class="metrics">
+                                <div class="metric">
+                                    <span class="metric-label">Gejala cocok</span>
+                                    <span class="metric-value">
+                                        {{ hasil.jumlah_cocok }}/{{ hasil.total_gejala }}
+                                    </span>
+                                </div>
+                                <div class="metric">
+                                    <span class="metric-label">Persentase kecocokan</span>
+                                    <span class="metric-value">{{ hasil.persentase }}%</span>
+                                </div>
+                            </div>
+                            <div
+                                class="progress-track"
+                                role="progressbar"
+                                aria-label="Persentase kecocokan"
+                                aria-valuenow="{{ hasil.persentase }}"
+                                aria-valuemin="0"
+                                aria-valuemax="100"
+                            >
+                                <div class="progress-fill" style="width: {{ hasil.persentase }}%;"></div>
+                            </div>
+
+                            <h4>Gejala yang cocok</h4>
+                            <ul>
+                                {% for gejala in hasil.gejala_cocok %}
+                                    <li>{{ gejala.nama }} ({{ gejala.kode }})</li>
+                                {% endfor %}
+                            </ul>
+
+                            <details>
+                                <summary>Informasi dan penanganan</summary>
+                                <div class="symptom-list">
+                                    {% for bagian in hasil.penanganan %}
+                                        <h4>{{ bagian.judul }}</h4>
+                                        <ul>
+                                            {% for informasi in bagian.informasi %}
+                                                <li>{{ informasi }}</li>
+                                            {% endfor %}
+                                        </ul>
+                                    {% endfor %}
+                                </div>
+                            </details>
+                        </article>
+                    {% endfor %}
+                </div>
+            </section>
+        {% endif %}
+    </main>
+
+    <script>
+        const symptomInputs = document.querySelectorAll('input[name="gejala"]');
+        const selectedCount = document.getElementById("selected-count");
+        const symptomGroups = document.querySelectorAll("[data-symptom-group]");
+
+        function updateSelectedCount() {
+            const count = document.querySelectorAll(
+                'input[name="gejala"]:checked'
+            ).length;
+            selectedCount.textContent = `${count} gejala dipilih`;
+
+            symptomGroups.forEach((group) => {
+                const selectedInGroup = group.querySelectorAll(
+                    'input[name="gejala"]:checked'
+                ).length;
+                group.querySelector(".accordion-count").textContent =
+                    `${selectedInGroup} dipilih`;
+            });
+        }
+
+        symptomInputs.forEach((input) => {
+            input.addEventListener("change", updateSelectedCount);
+        });
+        updateSelectedCount();
+    </script>
+</body>
+</html>

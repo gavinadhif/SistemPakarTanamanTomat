@@ -1,0 +1,26 @@
+﻿Disease,Kode_Gejala,Gejala,Sumber
+Early Blight,G01,Bercak bulat berwarna cokelat hingga hitam pada daun,Data.csv: symptoms
+Early Blight,G02,Bercak memiliki pola lingkaran konsentris,Data.csv: symptoms
+Early Blight,G03,Terdapat halo atau lingkaran kekuningan di sekitar bercak,Data.csv: symptoms
+Early Blight,G04,Bercak dapat menyatu dan menyebabkan daun menguning,Data.csv: symptoms
+Early Blight,G05,Daun bagian bawah mengering atau gugur,Data.csv: symptoms
+Late Blight,G06,Muncul bercak tidak beraturan seperti basah pada daun,Data.csv: symptoms
+Late Blight,G07,Bercak berwarna cokelat tua hingga hitam,Data.csv: symptoms
+Late Blight,G08,Terdapat pertumbuhan jamur atau spora berwarna putih pada kondisi basah,Data.csv: symptoms
+Late Blight,G09,Bercak meluas dengan cepat,Data.csv: symptoms
+Late Blight,G10,"Daun menjadi cokelat, layu, atau mati",Data.csv: symptoms
+Septoria,G11,Muncul bercak kecil berbentuk bulat pada daun,Data.csv: symptoms
+Septoria,G12,Bercak memiliki bagian tengah berwarna abu-abu atau kecokelatan,Data.csv: symptoms
+Septoria,G13,Tepi bercak berwarna cokelat gelap,Data.csv: symptoms
+Septoria,G14,Terdapat titik-titik hitam kecil di bagian tengah bercak,Data.csv: symptoms
+Septoria,G15,"Daun menguning, mengering, atau gugur",Data.csv: symptoms
+Leaf Mold,G16,Muncul bercak hijau pucat hingga kuning pada permukaan atas daun,Data.csv: symptoms
+Leaf Mold,G17,Terdapat lapisan seperti beludru berwarna hijau zaitun hingga cokelat di bawah daun,Data.csv: symptoms
+Leaf Mold,G18,Bercak daun membesar dan menyatu,Data.csv: symptoms
+Leaf Mold,G19,"Daun menggulung, mengering, atau gugur",Data.csv: symptoms
+Leaf Mold,G20,Daun yang terinfeksi dapat layu dan mati tetapi tetap menempel pada tanaman,Data.csv: symptoms
+Yellow Leaf Curl Virus,G21,Daun menguning terutama di antara tulang daun,Data.csv: symptoms
+Yellow Leaf Curl Virus,G22,Daun berukuran kecil dan menggulung ke arah atas,Data.csv: symptoms
+Yellow Leaf Curl Virus,G23,Pertumbuhan tanaman terhambat,Data.csv: symptoms
+Yellow Leaf Curl Virus,G24,Tanaman tampak rimbun atau menggerombol karena ruas batang memendek,Data.csv: symptoms
+Yellow Leaf Curl Virus,G25,Pertumbuhan daun baru tampak kecil atau berubah bentuk,Data.csv: symptoms

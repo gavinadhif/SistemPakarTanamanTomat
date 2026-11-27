@@ -1,0 +1,121 @@
+﻿Disease,Kode_Gejala,Gejala,Sumber
+Early Blight,G001,"In the base of the affected plant, with roughly round brown spots on the leaves and stems",Data.csv: symptoms
+Early Blight,G002,"As the lesions expand, the spots appear yellow halos",Data.csv: symptoms
+Early Blight,G003,lower leaves to be wholly deleaved and even lead to the death of infected plants.,Data.csv: symptoms
+Early Blight,G004,The color of the spots is usually brown to black. Itâ€™s sunken and has a distinct concentric ring.,Data.csv: symptoms
+Early Blight,G005,"the stem and fruit may also be infected, showing dark and sunken spots.",Data.csv: symptoms
+Early Blight,G006,appearance of a few (5 to 10 in most cases) circular brown spots on a leaf and spots merge together and may kill the whole leaf.,Data.csv: symptoms
+Early Blight,G007,"Circular, dark brown to black spots with dark concentric rings. and As the infection progresses, the spots may merge, causing the affected leaves to turn yellow and defoliate.",Data.csv: symptoms
+Late Blight,G008,initial signs of late blight are brown spots or disease spots on plant stems.,Data.csv: symptoms
+Late Blight,G009,expand rapidly and produce white fungi growth in wet conditions,Data.csv: symptoms
+Late Blight,G010,"Soft rot causes the stem to collapse quickly, turning into dark brown.",Data.csv: symptoms
+Late Blight,G011,white spores can be seen forming at the damaged edge of the surface the leafâ€™s blade back.,Data.csv: symptoms
+Late Blight,G012,"leaves are irregularly shaped, water-soaked lesions, often with a lighter halo or ring around them and these lesions are typically found on the younger, more succulent leaves in the top portion of the plant canopy.",Data.csv: symptoms
+Late Blight,G013,"Spots are visible on both sides of the leaves. As the disease progresses, lesions enlarge causing leaves to brown, shrivel and die.",Data.csv: symptoms
+Late Blight,G014,Water-soaked black lesions on leaves and stems,Data.csv: symptoms
+Late Blight,G015,Lesions expand rapidly and the entire leaf becomes necrotic.,Data.csv: symptoms
+Late Blight,G016,White sporulation (sporangia and sporangiophores) on leaves.,Data.csv: symptoms
+Leaf Miner,G017,Larva feeds on the internal tissues of the leaves by creating shallow tunnels or trails that appear as discolored or brown patches on the leaf surface,Data.csv: symptoms
+Leaf Miner,G018,Leaves curl due to the mining activity of larva in the lower or upper surface of the leaves,Data.csv: symptoms
+Leaf Miner,G019,"Infested leaves may appear pale or yellow and in severe cases, they may turn brown and wither",Data.csv: symptoms
+Leaf Miner,G020,Leaves of the affected plant becomes distorted or shriveled,Data.csv: symptoms
+Leaf Miner,G021,"Severe leaf miner infestations can cause stunted growth of the affected plant, leading to reduced yields and poor-quality produce",Data.csv: symptoms
+Leaf Miner,G022,Causes drying and pre-mature dropping of affected leaves,Data.csv: symptoms
+Leaf Miner,G023,"The feeding activity of the larva can weaken the plant, making it more susceptible to other pests and diseases like citrus canker due to secondary source of infection.",Data.csv: symptoms
+Leaf Miner,G024,"Larvae damage flowers, leaves, stems, apical buds, and young fruits.",Data.csv: symptoms
+Leaf Miner,G025,Severe infestations make the plant look scorched.,Data.csv: symptoms
+Leaf Miner,G026,Leaf mines appear as irregular blotches filled with frass.,Data.csv: symptoms
+Leaf Miner,G027,Leaves may become skeletonized in heavy attacks.,Data.csv: symptoms
+Leaf Miner,G028,"Holes, frass, and webbing appear on stems and fruit",Data.csv: symptoms
+Leaf Miner,G029,Larvae have a distinct dark band behind their head.,Data.csv: symptoms
+Leaf Miner,G030,Drying and dropping of leaves,Data.csv: symptoms
+Leaf Miner,G031,Leaf mines: Serpentine tunnels (mines) on leaves caused by larval feeding.,Data.csv: symptoms
+Leaf Miner,G032,Punctures: Adult females puncture leaves with their ovipositor to feed and lay eggs.,Data.csv: symptoms
+Leaf Miner,G033,"Leaf damage: Reduced photosynthesis, wilting, and premature leaf drop.",Data.csv: symptoms
+Leaf Miner,G034,"Host preference: Highly infests cucurbits (cucumber, bottle gourd, pumpkin), legumes (mung bean, pea), and solanaceous crops (tomato, eggplant).",Data.csv: symptoms
+Leaf Mold,G035,The oldest leaves are infected first.,Data.csv: symptoms
+Leaf Mold,G036,"Pale greenish-yellow spots, usually less than 1/4 inch, with no definite margins, form on the upper sides of leaves.",Data.csv: symptoms
+Leaf Mold,G037,Olive-green to brown velvety mold forms on the lower leaf surface below leaf spots.,Data.csv: symptoms
+Leaf Mold,G038,Leaf spots grow together and turn brown. Leaves wither and die but often remain attached to the plant.,Data.csv: symptoms
+Leaf Mold,G039,Infected blossoms turn black and fall off.,Data.csv: symptoms
+Leaf Mold,G040,"Fruit infections start as a smooth black irregular area on the stem end of the fruit. As the disease progresses, the infected area becomes sunken, dry and leathery.",Data.csv: symptoms
+Leaf Mold,G041,Symptoms start as pale green to yellowish spots on upper leaf surfaces that turn a bright yellow,Data.csv: symptoms
+Leaf Mold,G042,"Infected leaves curl, wither, and often drop from the plant",Data.csv: symptoms
+Mosaic Virus,G043,Early infection may cause plants to look yellow and generally stunted.,Data.csv: symptoms
+Mosaic Virus,G044,Dark and light green leaves mottling.,Data.csv: symptoms
+Mosaic Virus,G045,"There may be twisted, deformed, or diminished leaves.",Data.csv: symptoms
+Mosaic Virus,G046,"At warm temperatures, certain cultivars may show signs of dead leaf tissue.",Data.csv: symptoms
+Mosaic Virus,G047,Possible uneven ripening of fruits.,Data.csv: symptoms
+Mosaic Virus,G048,Decreased total fruit yield and average fruit size.,Data.csv: symptoms
+Mosaic Virus,G049,"Fruit with irregular, off-color spots that can be either elevated or depressed.",Data.csv: symptoms
+Mosaic Virus,G050,Fruits may exhibit browning just beneath the skin (brownwall).,Data.csv: symptoms
+Mosaic Virus,G051,"Yellow, white or green stripes/ streaks/ spots on foliage",Data.csv: symptoms
+Mosaic Virus,G052,"Wrinkled, curled, or small leaves",Data.csv: symptoms
+Mosaic Virus,G053,Pronounced yellowing only of veins,Data.csv: symptoms
+Mosaic Virus,G054,Stunted growth and reduced yields,Data.csv: symptoms
+Mosaic Virus,G055,Infected fruit appears mottled and develops raised â€œwartyâ€ areas,Data.csv: symptoms
+Mosaic Virus,G056,dark green blisters,Data.csv: symptoms
+Mosaic Virus,G057,stems that dry out rapidly,Data.csv: symptoms
+Septoria,G058,"Small , water-soaked grey circular spots with dark-brown margins appear on the undersides of older leaves.",Data.csv: symptoms
+Septoria,G059,"Infected spots enlarges ,coalesce and balck dots appear in the center.",Data.csv: symptoms
+Septoria,G060,"Heavily infected leaves willturn slightly yellow, wither and fall off, while defoliation leads to sun scalding of fruits.",Data.csv: symptoms
+Septoria,G061,Appears first on lower leaves after first fruit sets.,Data.csv: symptoms
+Septoria,G062,"Spots are circular, 1/16 to 1/4 inch in diameter.",Data.csv: symptoms
+Septoria,G063,Dark brown margins,Data.csv: symptoms
+Septoria,G064,Tan to gray centers,Data.csv: symptoms
+Septoria,G065,Small black fruiting bodies in the center (pycnidia),Data.csv: symptoms
+Septoria,G066,Many spots per leaf are typical.,Data.csv: symptoms
+Septoria,G067,Disease progresses upward from old to new leaves.,Data.csv: symptoms
+Septoria,G068,"Leaves turn yellow, then brown, and wither.",Data.csv: symptoms
+Septoria,G069,Fruit infection is rare.,Data.csv: symptoms
+Spider Mites,G070,"Yellowing leaves, often mistaken for nutrient deficiencies or disease.",Data.csv: symptoms
+Spider Mites,G071,Fine webbing on the underside of leaves.,Data.csv: symptoms
+Spider Mites,G072,Dark spots on either side of the leaf (from feeding damage).,Data.csv: symptoms
+Spider Mites,G073,Stippling (tiny yellow/white specks) followed by browning and leaf death.,Data.csv: symptoms
+Spider Mites,G074,Stunted growth and eventual plant collapse in severe infestations.,Data.csv: symptoms
+Spider Mites,G075,"In severe cases, the recommendation is to pull out the plant.",Data.csv: symptoms
+Spider Mites,G076,Tiny white-yellowish spots on both upper and lower leaf surfaces.,Data.csv: symptoms
+Spider Mites,G077,Silvery appearance on leaves due to heavy feeding.,Data.csv: symptoms
+Spider Mites,G078,Fine webbing on leaves (especially in heavy infestations).,Data.csv: symptoms
+Spider Mites,G079,Leaves may dry up and die in severe cases.,Data.csv: symptoms
+Spider Mites,G080,Cracking of fruit can also occur from mite damage.,Data.csv: symptoms
+Spider Mites,G081,"Mites are tiny (0.6 mm), wingless, and require a hand lens to be seen.",Data.csv: symptoms
+Target Spot,G082,"pinpoint-sized, water-soaked spots on the upper leaf surface",Data.csv: symptoms
+Target Spot,G083,Progresses to small necrotic lesions with light brown centers and dark margins.,Data.csv: symptoms
+Target Spot,G084,"Lesions enlarge, forming circular spots with gray to pale brown centers and dark concentric rings (target-like appearance).",Data.csv: symptoms
+Target Spot,G085,Yellow halos may form around lesions.,Data.csv: symptoms
+Target Spot,G086,"Severe infections cause leaf blighting and premature defoliation (""melting-out"" of inner canopy).",Data.csv: symptoms
+Target Spot,G087,Blighted lesions with concentric circles (target-like appearance),Data.csv: symptoms
+Target Spot,G088,Yellow halos around the lesions,Data.csv: symptoms
+Target Spot,G089,Severe defoliation of leaflets (leaf drop),Data.csv: symptoms
+Target Spot,G090,Necrotic spots on leaves and stems,Data.csv: symptoms
+Target Spot,G091,Rapid disease progression leading to plant collapse within 2â€“3 days after symptom appearance (in pathogenicity trial),Data.csv: symptoms
+Target Spot,G092,Necrotic lesions with light-brown centers.,Data.csv: symptoms
+Target Spot,G093,"Lesions coalesce, leading to large blighted areas.",Data.csv: symptoms
+Target Spot,G094,Severe defoliation (up to 75% reported in trials).,Data.csv: symptoms
+Target Spot,G095,Circular spots with concentric (target-like) rings appear.,Data.csv: symptoms
+Target Spot,G096,"Black, velvety fungal lesion forms in the center.",Data.csv: symptoms
+Target Spot,G097,Spots become larger and pitted as the fruit matures.,Data.csv: symptoms
+Target Spot,G098,Appears on all above-ground parts of the tomato plant.,Data.csv: symptoms
+Target Spot,G099,"Starts as small, water-soaked spots on older leaves, later forming ringed lesions with yellow halos.",Data.csv: symptoms
+Target Spot,G100,"Lesions appear on stems and petioles as thin, brown spots.",Data.csv: symptoms
+Target Spot,G101,"On young fruits: small, dry lesions.",Data.csv: symptoms
+Target Spot,G102,On ripe fruits: large circular lesions with cracked brown centers.,Data.csv: symptoms
+Target Spot,G103,Causes yield loss; mature leaves and fruit (both green and ripe) are vulnerable.,Data.csv: symptoms
+Yellow Leaf Curl Virus,G104,"Leaves become small, yellow between veins, and curl upwards.",Data.csv: symptoms
+Yellow Leaf Curl Virus,G105,"New growth is stunted, and plants look bushy.",Data.csv: symptoms
+Yellow Leaf Curl Virus,G106,Only new growth after infection is affected in mature plants.,Data.csv: symptoms
+Yellow Leaf Curl Virus,G107,"Fruits look normal, but yield is greatly reduced.",Data.csv: symptoms
+Yellow Leaf Curl Virus,G108,Yellowing between leaf veins,Data.csv: symptoms
+Yellow Leaf Curl Virus,G109,Upward curling of leaves,Data.csv: symptoms
+Yellow Leaf Curl Virus,G110,Stunted plant growth,Data.csv: symptoms
+Yellow Leaf Curl Virus,G111,Bushy appearance in seedlings,Data.csv: symptoms
+Yellow Leaf Curl Virus,G112,"Small, deformed new growth",Data.csv: symptoms
+Yellow Leaf Curl Virus,G113,Leaf crumpling and thickening (especially on beans),Data.csv: symptoms
+Yellow Leaf Curl Virus,G114,"No visible fruit symptoms, but drastically reduced yield",Data.csv: symptoms
+Yellow Leaf Curl Virus,G115,"Stunted, upright (erect) growth, especially if infected early",Data.csv: symptoms
+Yellow Leaf Curl Virus,G116,"Small, upward curling leaves",Data.csv: symptoms
+Yellow Leaf Curl Virus,G117,"Strong crumpling, with interveinal and marginal yellowing",Data.csv: symptoms
+Yellow Leaf Curl Virus,G118,"Shortened internodes, giving a bushy appearance",Data.csv: symptoms
+Yellow Leaf Curl Virus,G119,Flower drop (abscission) â€“ flowers do not develop,Data.csv: symptoms
+Yellow Leaf Curl Virus,G120,"Fruit production drastically reduced, with potential 100% yield loss in early-infected plants",Data.csv: symptoms
