@@ -1,12 +1,41 @@
 
 from pathlib import Path
+import os
 
+# Lokasi folder project Django
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-SECRET_KEY = 'django-insecure-a0pm$y@7o=+z*da#&th(!b@ya7rx#ga3b^s4w@i@o7xzsjl4n)'
-DEBUG = True
-ALLOWED_HOSTS = []
+# Konfigurasi keamanan
+SECRET_KEY = os.environ.get(
+    "DJANGO_SECRET_KEY",
+    "django-insecure-local-development-only"
+)
 
+# DEBUG aktif secara default untuk pengembangan lokal.
+# Di Vercel nanti atur DJANGO_DEBUG=False.
+DEBUG = os.environ.get("DJANGO_DEBUG", "True").lower() == "true"
+
+# Domain yang diizinkan mengakses aplikasi
+ALLOWED_HOSTS = [
+    host.strip()
+    for host in os.environ.get(
+        "DJANGO_ALLOWED_HOSTS",
+        "localhost,127.0.0.1"
+    ).split(",")
+    if host.strip()
+]
+
+# Domain yang dipercaya untuk pengiriman form CSRF
+CSRF_TRUSTED_ORIGINS = [
+    origin.strip()
+    for origin in os.environ.get(
+        "DJANGO_CSRF_TRUSTED_ORIGINS",
+        ""
+    ).split(",")
+    if origin.strip()
+]
+
+# Aplikasi Django
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
@@ -18,6 +47,7 @@ INSTALLED_APPS = [
     'diagnosis',
 ]
 
+# Middleware
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
@@ -28,19 +58,17 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
+# Konfigurasi URL
 ROOT_URLCONF = 'config.urls'
 
+# Konfigurasi template
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-
-        # Lokasi folder template aplikasi diagnosis
         'DIRS': [
             BASE_DIR / 'diagnosis' / 'templates',
         ],
-
         'APP_DIRS': True,
-
         'OPTIONS': {
             'context_processors': [
                 'django.template.context_processors.request',
@@ -51,8 +79,10 @@ TEMPLATES = [
     },
 ]
 
+# Konfigurasi WSGI
 WSGI_APPLICATION = 'config.wsgi.application'
 
+# Database
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
@@ -60,6 +90,7 @@ DATABASES = {
     }
 }
 
+# Validasi password
 AUTH_PASSWORD_VALIDATORS = [
     {
         'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',
@@ -75,14 +106,27 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
+# Bahasa dan waktu
 LANGUAGE_CODE = 'id'
 TIME_ZONE = 'Asia/Jakarta'
 
 USE_I18N = True
 USE_TZ = True
 
-STATIC_URL = 'static/'
+# Konfigurasi file statis
+STATIC_URL = '/static/'
+STATIC_ROOT = BASE_DIR / 'staticfiles'
 
+# Default primary key
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
+# Konfigurasi email
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+
+# Keamanan cookie saat production
+if not DEBUG:
+    SESSION_COOKIE_SECURE = True
+    CSRF_COOKIE_SECURE = True
+
+# Header HTTPS dari reverse proxy Vercel
+SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
